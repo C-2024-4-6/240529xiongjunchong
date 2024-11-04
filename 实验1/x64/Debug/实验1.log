@@ -1,0 +1,5 @@
+﻿  作业.cpp
+C:\Users\jsjxy\Desktop\实验1\实验1\作业.cpp(283,9): error C2062: 意外的类型“int”
+C:\Users\jsjxy\Desktop\实验1\实验1\作业.cpp(285,14): error C2065: “b”: 未声明的标识符
+C:\Users\jsjxy\Desktop\实验1\实验1\作业.cpp(286,44): error C2065: “b”: 未声明的标识符
+C:\Users\jsjxy\Desktop\实验1\实验1\作业.cpp(287,44): error C2065: “b”: 未声明的标识符
